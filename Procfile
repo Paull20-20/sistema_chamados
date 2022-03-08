@@ -1,2 +1,2 @@
-web: gunicorn :$PORT todo.wsgi
+web: gunicorn todo.wsgi
 
