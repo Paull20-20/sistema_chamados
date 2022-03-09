@@ -10,7 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
-#para Everything up-to-date: https://pt.stackoverflow.com/questions/52651/git-n%C3%A3o-envia-commits-para-servidor-erro-everything-up-to-date
+#para o output Everything up-to-date: https://pt.stackoverflow.com/questions/52651/git-n%C3%A3o-envia-commits-para-servidor-erro-everything-up-to-date
 
 import os
 import django_heroku
