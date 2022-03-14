@@ -31,7 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://chamadosapp.herokuapp.com/'] #https://chamadosapp.herokuapp.com/
 
-# Application definition #app
+# Application definition #app #app
 
 INSTALLED_APPS = [
     'django.contrib.admin',
