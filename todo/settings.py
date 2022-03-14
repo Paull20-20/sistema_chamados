@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'users',
     'crispy_forms',
     'accounts',
+    "django.middleware.security.SecurityMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
 ]
 
 MIDDLEWARE = [
