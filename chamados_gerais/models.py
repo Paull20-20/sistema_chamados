@@ -15,7 +15,7 @@ class Chamado_geral(models.Model):
 
     titulo = models.CharField("Título:", max_length=255)
     descrição = models.TextField("Descrição:")
-    arquivo = models.FileField("Arquivo:", upload_to='',  blank=True, null=True)
+    arquivo = models.FileField("Anexo:", upload_to='',  blank=True, null=True)
     Status = models.CharField(
         max_length=20,
         choices=STATUS,
