@@ -15,6 +15,7 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 #para o output Everything up-to-date: https://pt.stackoverflow.com/questions/52651/git-n%C3%A3o-envia-commits-para-servidor-erro-everything-up-to-date
 
 #msgTeste
+#ksksks
 
 import os
 import django_heroku
