@@ -16,6 +16,7 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 #msgTeste
 #ksksks
+#dfrfr
 
 import os
 import django_heroku
