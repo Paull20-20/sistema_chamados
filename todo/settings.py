@@ -10,7 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
-#ver minuto 27: https://www.youtube.com/watch?v=8l8xwvRO1_U&t=1920s
+#ver minuto 27: https://www.youtube.com/watch?v=8l8xwvRO1_U&t=1920s ###
 
 #para o output Everything up-to-date: https://pt.stackoverflow.com/questions/52651/git-n%C3%A3o-envia-commits-para-servidor-erro-everything-up-to-date
 
