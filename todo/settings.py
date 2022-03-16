@@ -18,7 +18,7 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 #ksksks
 #dfrfr
 #ggggg
-#kkkkk
+#kkkkkh
 #https://stackoverflow.com/questions/21947406/git-push-heroku-master-says-everything-up-to-date-but-the-app-is-not-current
 
 import os
