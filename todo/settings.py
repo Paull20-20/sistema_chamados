@@ -40,7 +40,7 @@ SECRET_KEY = 'django-insecure-ktv-0k(og2h1eqna-u8yuo@*kvx@h3@-5@e4hf-1ic32zbo82f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://bity-chamados.herokuapp.com/'] #https://chamadosapp.herokuapp.com/
+ALLOWED_HOSTS = ['https://bity-chamados2.herokuapp.com/'] #https://chamadosapp.herokuapp.com/
 
 # Application definition #app #app
 
