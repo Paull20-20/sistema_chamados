@@ -43,6 +43,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['https://bity-chamados2.herokuapp.com/'] #https://chamadosapp.herokuapp.com/
 
 # Application definition #app #app
+#
 
 INSTALLED_APPS = [
     'django.contrib.admin',
