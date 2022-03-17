@@ -14,12 +14,14 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 #para o output Everything up-to-date: https://pt.stackoverflow.com/questions/52651/git-n%C3%A3o-envia-commits-para-servidor-erro-everything-up-to-date
 
+
 #msgTeste
 #ksksks
 #dfrfr
 #ggggg
 #kkkkkh
 #https://stackoverflow.com/questions/21947406/git-push-heroku-master-says-everything-up-to-date-but-the-app-is-not-current
+
 
 import os
 import django_heroku
@@ -38,7 +40,7 @@ SECRET_KEY = 'django-insecure-ktv-0k(og2h1eqna-u8yuo@*kvx@h3@-5@e4hf-1ic32zbo82f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://chamadosappsb.herokuapp.com/'] #https://chamadosapp.herokuapp.com/
+ALLOWED_HOSTS = ['https://bity-chamados.herokuapp.com/'] #https://chamadosapp.herokuapp.com/
 
 # Application definition #app #app
 
